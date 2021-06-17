@@ -16,9 +16,7 @@ tags:
   - hackweb
 ---
 
-# Path  Traversal
-
-- Que es Path traversal?
+# ¿Que es Path Traversal?
 
 **Path traversal** tambien conocido como **Directory Traversal** es una vulnerabilidad de seguridad web que permite a un atacante leer archivos arbitrarios en el servidor que esta ejecutando la aplicacion.En algunos casos esta vulnerabilidad se puede concatenar permitiendo escritura de archivos, modificacion de datos y en ultima instancia hasta tomar el control del servidor.
 
