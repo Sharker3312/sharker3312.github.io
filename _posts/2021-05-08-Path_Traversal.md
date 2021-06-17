@@ -94,7 +94,7 @@ En otro variante tambien es posible utilizar  varios encoders no estándares par
 
   **¿** Que significan estos encoders **?** 
 
-  La codificacion **URL** también conocida como codificación porcentual  Ej: "**%xx**"  representa un byte donde cada `X` es un dígito hexadecimal.Por lo tanto **%c0%af**  en una URL corresponde a los bytes **C0  AF** que respectivamente son los bytes 192 y 175 del código `ASCII`
+  La codificacion **URL** también conocida como codificación porcentual  Ej: "**%xx**"  representa un byte donde cada `X` es un dígito hexadecimal.Por lo tanto **%c0%af**  en una URL corresponde a los bytes **C0  AF** que respectivamente son los bytes 192 y 175 del código `ASCII`.
 
   Entonces el codigo **ASCII** solo define símbolos para los bytes del `0-127`.Muchas webs de hoy en día utilizan la codificación **UTF-8** siendo los caracteres ASCII codificados como de costumbre con un solo byte.Por  lo tanto algunas librerias  pueden optar por no verificar que el valor del caracter Unicode de dos bytes este en el rango válido.
 
@@ -118,11 +118,11 @@ En otro variante tambien es posible utilizar  varios encoders no estándares par
 
   Como por arte de magia tenemos un ***3312***
 
-  
+  ![SecLists Payloads](https://github.com/danielmiessler/SecLists/tree/master/Fuzzing)  
 
   - [x] ***H@ppY H@(K1NG!***
 
   
 
-   
+   
 
