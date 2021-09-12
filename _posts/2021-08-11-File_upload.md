@@ -1,7 +1,7 @@
 ---
 title: "File Upload"
 layout: single
-excerpt: Este es el "Write-Up" de la máquina **Armageddon** de la plataforma HackTheBox, maquina easy pero nunca esta demas compartir informacion, espero y les guste...  
+excerpt: File Upload es una vulnerabilidad para cargar archivos con una extensión no autorizada, esta falla se debe a la configuración incorrecta del script de carga o la ausencia total de seguridad.
 header:
 show_date: true
 classes: wide
