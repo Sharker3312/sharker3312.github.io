@@ -3,4 +3,6 @@
 ---
 
 @charset "utf-8";
-@import "jekyll-theme-hacker"
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'defau>
+@import "minimal-mistakes"; // main partials
+
