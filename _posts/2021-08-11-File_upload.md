@@ -115,7 +115,9 @@ Usualmente algunas web suelen validar la cabecera hexadecimal  de la imagen.Lóg
 | DOC         | D0 CF 11 E0             |
 
 - Para cambiar las cabeceras hexadecimales utilizaremos el binario `hexeditor` 
+
  - Cambiando el `primer octeto` de bytes les quedaría así
 
    ![](/assets/images/File_Upload/f10.png)
-
+   
+   
