@@ -105,7 +105,9 @@ El propósito es identificar rápidamente este caracter en el campo hexadecimal 
 
 ---
 
-Usualmente algunas web suelen validar la cabecera hexadecimal  de la imagen.Lógicamente sabiando esto se podría lograr un bypass.
+Usualmente algunas web suelen validar las cabeceras hexadecimales  de la imagen más conocidos como números mágicos .Lógicamente sabiando esto se podría lograr un bypass.
+
+
 
 | Extensiones | Cabeceras Hexadecimales |
 | ----------- | :---------------------- |
@@ -121,3 +123,5 @@ Usualmente algunas web suelen validar la cabecera hexadecimal  de la imagen.Lóg
    ![](/assets/images/File_Upload/f10.png)
    
    
+
+Posteriormente la web interpretaría este `.php` como una imagen.
