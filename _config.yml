@@ -118,7 +118,7 @@ author:
       url: "https://github.com/Sharker3312"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/lester-diaz-49180617a"
+      #url: "https://www.linkedin.com/in/lester-diaz-49180617a"
 
 # Site Footer
 footer:
